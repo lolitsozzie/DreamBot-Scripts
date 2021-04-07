@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="WoodCutter">
+    <output-path>$USER_HOME$/DreamBot/Scripts</output-path>
+    <root id="archive" name="WoodCutter.jar">
+      <element id="module-output" name="WoodCutter" />
+    </root>
+  </artifact>
+</component>

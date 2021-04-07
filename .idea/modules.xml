@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FireMaker/FireMaker.iml" filepath="$PROJECT_DIR$/FireMaker/FireMaker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HerbCleaner/HerbCleaner.iml" filepath="$PROJECT_DIR$/HerbCleaner/HerbCleaner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PotionMaker/PotionMaker.iml" filepath="$PROJECT_DIR$/PotionMaker/PotionMaker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PowerFisher/PowerFisher.iml" filepath="$PROJECT_DIR$/PowerFisher/PowerFisher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ScriptsExample.iml" filepath="$PROJECT_DIR$/ScriptsExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WoodCutter/WoodCutter.iml" filepath="$PROJECT_DIR$/WoodCutter/WoodCutter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bootBuyer/bootBuyer.iml" filepath="$PROJECT_DIR$/bootBuyer/bootBuyer.iml" />
+    </modules>
+  </component>
+</project>
